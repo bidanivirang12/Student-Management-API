@@ -1,0 +1,75 @@
+
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Aarav Sharma",
+      "age": 19,
+      "grade": "A",
+      "email": "aarav.sharma@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Priya Verma",
+      "age": 20,
+      "grade": "B",
+      "email": "priya.verma@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Rohan Mehta",
+      "age": 18,
+      "grade": "A+",
+      "email": "rohan.mehta@example.com"
+    },
+    {
+      "id": 4,
+      "name": "Ananya Gupta",
+      "age": 21,
+      "grade": "A",
+      "email": "ananya.gupta@example.com"
+    },
+    {
+      "id": 5,
+      "name": "Ishaan Patel",
+      "age": 19,
+      "grade": "C",
+      "email": "ishaan.patel@example.com"
+    },
+    {
+      "id": 6,
+      "name": "Kavya Singh",
+      "age": 20,
+      "grade": "B+",
+      "email": "kavya.singh@example.com"
+    },
+    {
+      "id": 7,
+      "name": "Aditya Kumar",
+      "age": 22,
+      "grade": "A",
+      "email": "aditya.kumar@example.com"
+    },
+    {
+      "id": 8,
+      "name": "Sneha Reddy",
+      "age": 18,
+      "grade": "B",
+      "email": "sneha.reddy@example.com"
+    },
+    {
+      "id": 9,
+      "name": "Arjun Malhotra",
+      "age": 21,
+      "grade": "A+",
+      "email": "arjun.malhotra@example.com"
+    },
+    {
+      "id": 10,
+      "name": "Meera Joshi",
+      "age": 19,
+      "grade": "C+",
+      "email": "meera.joshi@example.com"
+    }
+  ]
+}
